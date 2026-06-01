@@ -9,7 +9,7 @@
 | No | Nama | NIM |
 |----|------|-----|
 | 1  | *(Salsabila Putri Ariska)* | *(25051204252)* |
-| 2  | *(Al-Wais Alqarn)*         | *(25051204013)* |
+| 2  | *(Al-Wais Alqarni)*         | *(25051204013)* |
 | 3  | *(Aliya Zalva Rosida)*     | *(25051204017)* |
 | 3  | *(Fikri Khair Rahmansyah)* | *(25051204212)* |
 
