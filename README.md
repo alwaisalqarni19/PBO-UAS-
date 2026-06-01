@@ -159,14 +159,15 @@ Kelas-kelas kompleks dibangun dari objek-objek yang lebih kecil:
 
 ## 📸 Screenshot Tampilan Program
 
-> **Petunjuk:** Tambahkan screenshot program di bawah ini.
 
 ### 🏠 Start Screen
-*(<img width="1599" height="895" alt="image" src="https://github.com/user-attachments/assets/a3815bbd-29cf-4ca9-9050-24e8205b41ce" />
-)*
+*<img width="1599" height="895" alt="image" src="https://github.com/user-attachments/assets/a3815bbd-29cf-4ca9-9050-24e8205b41ce" />
+*
 
 ### 📜 Story & How to Play
-*(Tambahkan screenshot halaman story/how to play di sini)*
+*(<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/27b1ccb9-4cbd-4a3e-bbb6-5b78cf1aba0c" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ed8d874c-ac71-4b9f-a805-4ff458254173" />
+)*
 
 ### ⚔️ Gameplay — Fase 1 (Melawan Kroco)
 *(Tambahkan screenshot gameplay fase 1 di sini)*
