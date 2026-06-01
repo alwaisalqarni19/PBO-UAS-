@@ -8,11 +8,12 @@
 
 | No | Nama | NIM |
 |----|------|-----|
-| 1  | *(Nama Anggota 1)* | *(NIM)* |
-| 2  | *(Nama Anggota 2)* | *(NIM)* |
-| 3  | *(Nama Anggota 3)* | *(NIM)* |
+| 1  | *(Salsabila Putri Ariska)* | *(25051204252)* |
+| 2  | *(Al-Wais Alqarn)*         | *(25051204013)* |
+| 3  | *(Aliya Zalva Rosida)*     | *(25051204017)* |
+| 3  | *(Fikri Khair Rahmansyah)* | *(25051204212)* |
 
-> **Catatan:** Isi tabel di atas dengan nama dan NIM anggota kelompok yang sebenarnya.
+
 
 ---
 
@@ -161,7 +162,8 @@ Kelas-kelas kompleks dibangun dari objek-objek yang lebih kecil:
 > **Petunjuk:** Tambahkan screenshot program di bawah ini.
 
 ### 🏠 Start Screen
-*(Tambahkan screenshot start screen di sini)*
+*(<img width="1599" height="895" alt="image" src="https://github.com/user-attachments/assets/a3815bbd-29cf-4ca9-9050-24e8205b41ce" />
+)*
 
 ### 📜 Story & How to Play
 *(Tambahkan screenshot halaman story/how to play di sini)*
