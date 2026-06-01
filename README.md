@@ -1,6 +1,6 @@
 # 🌲 Forest of Fate
 
-> Game RPG 2D berbasis tile menggunakan **Python + Pygame** — Ujian Akhir Semester Pemrograman Berorientasi Objek
+> Game RPG 2D berbasis tile menggunakan **Python + Pygame** Ujian Akhir Semester Pemrograman Berorientasi Objek
 
 ---
 
@@ -161,25 +161,29 @@ Kelas-kelas kompleks dibangun dari objek-objek yang lebih kecil:
 
 
 ### 🏠 Start Screen
-*<img width="1599" height="895" alt="image" src="https://github.com/user-attachments/assets/a3815bbd-29cf-4ca9-9050-24e8205b41ce" />
-*
+<img width="1599" height="895" alt="image" src="https://github.com/user-attachments/assets/a3815bbd-29cf-4ca9-9050-24e8205b41ce" />
+
 
 ### 📜 Story & How to Play
-*(<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/27b1ccb9-4cbd-4a3e-bbb6-5b78cf1aba0c" />
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/27b1ccb9-4cbd-4a3e-bbb6-5b78cf1aba0c" />
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ed8d874c-ac71-4b9f-a805-4ff458254173" />
-)*
 
-### ⚔️ Gameplay — Fase 1 (Melawan Kroco)
-*(Tambahkan screenshot gameplay fase 1 di sini)*
 
-### 👹 Gameplay — Fase 2 (Boss Fight)
-*(Tambahkan screenshot gameplay fase 2 di sini)*
+### ⚔️ Gameplay Fase 1 (Melawan Kroco)
+<img width="1598" height="896" alt="image" src="https://github.com/user-attachments/assets/eb54cb92-7d03-4bd0-a723-afaa4046ad82" />
 
+
+### 👹 Gameplay Fase 2 (Boss Fight)
+<img width="1597" height="885" alt="image" src="https://github.com/user-attachments/assets/64480d9c-760d-4b92-ac0e-a76112104a08" />
+
+ 
 ### 📊 Menu Upgrade
-*(Tambahkan screenshot menu upgrade di sini)*
+<img width="1592" height="894" alt="image" src="https://github.com/user-attachments/assets/cbf4d818-5c5a-42d5-afc3-0e3d5600fd21" />
+
 
 ### 🏆 Victory / Game Over Screen
-*(Tambahkan screenshot layar menang/kalah di sini)*
+<img width="1594" height="896" alt="Screenshot 2026-06-01 205930" src="https://github.com/user-attachments/assets/230219eb-bd47-4a36-b80a-5f9675046878" /><img width="1595" height="892" alt="image" src="https://github.com/user-attachments/assets/299b6cf1-37cd-4da9-b69b-be922dc5c37a" />
+
 
 ---
 
