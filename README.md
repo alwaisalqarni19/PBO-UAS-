@@ -190,8 +190,8 @@ Kelas-kelas kompleks dibangun dari objek-objek yang lebih kecil:
 ## 🛠️ Teknologi yang Digunakan
 
 - **Python 3.10+**
-- **Pygame** — rendering, input, audio, sprite management
-- **CSV** — format data peta tile
+- **Pygame** rendering, input, audio, sprite management
+- **CSV** format data peta tile
 
 ---
 
